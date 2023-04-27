@@ -23,9 +23,6 @@ N/A
 
 MIT License
 
-## Addition
-
-The javacsript for generate this random password works during test by monitoring the Chrome devTool, however I believe there are something that I couldn't figure it out in the given function writePassword(), since the above variable password works but the value cannot be assigned to variable passwordText. I am not sure how to fix this at this moment.
 
 ## Website
 The URL is shown below:
